@@ -14,8 +14,11 @@ div{
     display: grid;
     place-items: center;
     margin-inline: auto;
-
     font-size: 22px;
     font-weight: bold;
     transition: width 1s, height 1s;
+}
+
+.ball2{
+    background-color: blueviolet;
 }
