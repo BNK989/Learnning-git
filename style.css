@@ -17,4 +17,5 @@ div{
 
     font-size: 22px;
     font-weight: bold;
+    transition: width 1s, height 1s;
 }
